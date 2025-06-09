@@ -1,0 +1,47 @@
+module TimeToBeAPrisoner
+{
+    imports
+    {
+        Base
+    }
+
+    item Handcuffs
+    {
+        Type = Normal,
+        DisplayName = Metal Handcuffs,
+        Icon = Handcuffs,
+        Weight = 0.3,
+    }
+
+    item CableTies
+    {
+        Type = Normal,
+        DisplayName = Plastic Cable Ties,
+        Icon = CableTies,
+        Weight = 0.2,
+    }
+
+    item HandcuffKey
+    {
+        Type = Normal,
+        DisplayName = Handcuff Key,
+        Icon = Key,
+        Weight = 0.1,
+    }
+
+    item Rock
+    {
+        Type = Normal,
+        DisplayName = Heavy Rock,
+        Icon = Rock,
+        Weight = 1.0,
+    }
+
+    item Scissors
+    {
+        Type = Normal,
+        DisplayName = Scissors,
+        Icon = Scissors,
+        Weight = 0.2,
+    }
+}
